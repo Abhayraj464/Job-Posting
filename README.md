@@ -10,9 +10,13 @@ There are so many job portals like LinkedIn,Indeed,Glassdoor, Monster,SimplyHire
 ## Project Components
 
 App : Pycharm
+
 Language: python
+
 Library: Beautiful Soup
+
 Data cleaning & transform : Microsooft Excel
+
 Data visualization : Power Bi
 
 ## Conclusion
