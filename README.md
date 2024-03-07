@@ -9,7 +9,7 @@ There are so many job portals like LinkedIn,Indeed,Glassdoor, Monster,SimplyHire
 
 ## Project Components
 
-App : Pycharm
+App used for web scrapping : Pycharm
 
 Language: python
 
