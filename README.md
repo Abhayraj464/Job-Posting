@@ -1,4 +1,4 @@
-# Job-Poosting-Project
+# Job-Posting-Project
 
 ## Overview
 
