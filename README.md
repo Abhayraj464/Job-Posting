@@ -21,7 +21,7 @@ Data visualization : Power Bi
 
 ## Conclusion
 
-Through the analysis of the data using excel  and power bi there, are lot of job opportunities in the fields of  Data analyst,Data scientist and Business analyst. Companies are hiring but they prefer mostly experienced candidates.Only few companies prefer candidates with experience 0 years. For a fresher chances of getting the job is bit more difficult, so by doing personal projects and learning new tools and technologies will help them showcase their talent and help to get a job in these fields.
+Through the analysis of the data using excel  and power bi, there are lot of job opportunities in the fields of  Data analyst,Data scientist and Business analyst. Companies are hiring but they prefer mostly experienced candidates.Only few companies prefer candidates with experience 0 years. For a fresher chances of getting the job is bit more difficult, so by doing personal projects and learning new tools and technologies will help them showcase their talent and help to get a job in these fields.
 
 By analyzing  the data more jobs are offered in Karnataka and Maharashtra. So focusing on that location we can shortlist companies based on the experience required for the job and designation. Also there offers from specific locations (inside) of different States.
 
